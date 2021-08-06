@@ -7,7 +7,7 @@
 
 ## Nếu bản dịch mới không tự update, hãy làm theo các bước sau:
 - Vào game (Để ở màn hình chính)
-- Xóa thư mục "1714866600" theo đường dẫn `Documents\Klei\OxygenNotIncluded\mods\Steam\1714866600`
+- Xóa thư mục "2566414917" theo đường dẫn `Documents\Klei\OxygenNotIncluded\mods\Steam\2566414917`
 - Hủy Subscribe MOD Tiếng Việt rồi Subscribe lại
 - Restart Game!
 
