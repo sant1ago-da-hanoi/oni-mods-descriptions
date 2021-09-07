@@ -1,4 +1,3 @@
-# oni-vn
 # Bản dịch game Oxygen Not Included chính thức của team ONI-VN
 
 ## THÔNG TIN BẢN DỊCH
