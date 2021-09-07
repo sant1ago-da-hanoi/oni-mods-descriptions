@@ -16,7 +16,7 @@
 > (The Breath Of Fresh Air - cho đến nay)
 - [`Hoài Nam (sant1ago)`](fb.com/sant1ago.da.hanoi)
 
-> (Quality of Life Upgrade Mk III - cho đến nay)
+> (Quality of Life Upgrade Mk III) (retired)
 - [`Nguyễn Thái Bảo (Chuột Channel)`](https://fb.com/chuotktpm)
 
 > (AU to Cosmic Upgrade) (retired)
