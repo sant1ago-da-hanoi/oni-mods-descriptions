@@ -1,8 +1,10 @@
 # Bản dịch game Oxygen Not Included chính thức của team ONI-VN
 
+![ONI Vietnamese](https://steamuserimages-a.akamaihd.net/ugc/1699534842488121778/C144EC2B4789C2833D89634FA3AD325473BD02E3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
 ## THÔNG TIN BẢN DỊCH
 - Tương thích (Compatible with): `EX-1 S14-472345-SD` hoặc mới hơn (or later)
-- Ngày cập nhật gần nhất (Last update): `24/5/2021`
+- Ngày cập nhật gần nhất (Last update): `07/09/2021`
 
 ## Nếu bản dịch mới không tự update, hãy làm theo các bước sau:
 - Vào game (Để ở màn hình chính)
@@ -12,10 +14,10 @@
 
 ## Biên dịch bởi (Translate by) O.N.I VN Translators Team:
 > (The Breath Of Fresh Air - cho đến nay)
-- [`Hoài Nam`](fb.com/sant1ago.da.hanoi)
+- [`Hoài Nam (sant1ago)`](fb.com/sant1ago.da.hanoi)
 
 > (Quality of Life Upgrade Mk III - cho đến nay)
-- [`Nguyễn Thái Bảo`](https://fb.com/chuotktpm)
+- [`Nguyễn Thái Bảo (Chuột Channel)`](https://fb.com/chuotktpm)
 
 > (AU to Cosmic Upgrade) (retired)
 - [`Hoàng Long`](https://fb.com/pseryuu)
@@ -30,10 +32,19 @@
 
 > ### [Group O.N.I VN](https://fb.com/groups/VN.ONI)
 
-Do not copy, edit without permission from the author.
+## Bạn dùng crack?
+
+Để cài đặt bản Việt hóa này cho game crack, các bạn làm theo các bước sau:
+
+- 
+
+Do not copy, edit without author's permission.
 In case you want to repost or share this file/pack, please include all the infomation of O.N.I VN Translators Team & the Volunteers.
 Thank you!
 
 Nghiêm cấm sao chép, sửa đổi dưới mọi hình thức khi chưa được sự cho phép của chủ sở hữu.
-Trong trường hợp post lại file hay chia sẻ file, vui lòng kèm theo phần credit, hãy tôn trọng công sức của team các bạn đang dùng nó miễn phí!
-Mình xin cảm ơn và chúc các bạn chơi game vui vẻ!
+Trong trường hợp post lại file hay chia sẻ file, vui lòng kèm theo phần credit của nhóm dịch thuật.
+
+***Bản Việt hóa này là hoàn toàn miễn phí***
+
+Xin cảm ơn và chúc các bạn chơi game vui vẻ!
