@@ -4,7 +4,7 @@
 
 ## THÔNG TIN BẢN DỊCH
 - Tương thích (Compatible with): `EX-1 S14-472345-SD` hoặc mới hơn (or later)
-- Ngày cập nhật gần nhất (Last update): `07/09/2021`
+- Ngày cập nhật gần nhất (Last update): `10/09/2021`
 
 ## Nếu bản dịch mới không tự update, hãy làm theo các bước sau:
 - Vào game (Để ở màn hình chính)
