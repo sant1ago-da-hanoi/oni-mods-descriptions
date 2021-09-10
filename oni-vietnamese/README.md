@@ -36,7 +36,7 @@
 
 Để cài đặt bản Việt hóa này cho game crack, các bạn làm theo các bước sau:
 
-- Tải và giải nén file [`này`](https://github.com/sant1ago-da-hanoi/oni-mods-descriptions/raw/main/oni-vietnamese/oni-vietnamese.rar)
+- Tải và giải nén file [`này`](https://github.com/sant1ago-da-hanoi/oni-mods-descriptions/raw/main/oni-vietnamese/oni-vietnamese.zip)
 
 - Copy toàn bộ folder đã giải nén vào folder trong đường dẫn sau: `Documents\Klei\OxygenNotIncluded\mods\Local`
 
