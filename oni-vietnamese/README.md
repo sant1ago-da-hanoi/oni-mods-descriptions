@@ -46,6 +46,8 @@
 
 - Quẩy game
 
+## Mọi góp ý cũng như báo lỗi dịch thuật, xin các bạn vui lòng comment tại issue [`này`](https://github.com/sant1ago-da-hanoi/oni-mods-descriptions/issues/1)
+
 ##
 
 Do not copy, edit without author's permission.
