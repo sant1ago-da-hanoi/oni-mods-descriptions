@@ -4,7 +4,7 @@
 
 ## THÔNG TIN BẢN DỊCH
 - Tương thích (Compatible with): `EX-1 S14-472345-SD` hoặc mới hơn (or later)
-- Ngày cập nhật gần nhất (Last update): `10/09/2021`
+- Ngày cập nhật gần nhất (Last update): `05/07/2022`
 
 ## Nếu bản dịch mới không tự update, hãy làm theo các bước sau:
 - Vào game (Để ở màn hình chính)
@@ -36,13 +36,13 @@
 
 Để cài đặt bản Việt hóa này cho game crack, các bạn làm theo các bước sau:
 
-- Tải và giải nén file [`này`](https://github.com/sant1ago-da-hanoi/oni-mods-descriptions/raw/main/oni-vietnamese/oni-vietnamese.zip)
+- Tải và giải nén file [`này`](https://bit.ly/3bSwyuB)
 
 - Copy toàn bộ folder đã giải nén vào folder trong đường dẫn sau: `Documents\Klei\OxygenNotIncluded\mods\Local`
 
 - Sau khi copy xong, đường dẫn folder sẽ có dạng như sau: `Documents\Klei\OxygenNotIncluded\mods\Local\ONI VN`
 
-- Vào game và chọn bản dịch thuật Tiếng Việt
+- Vào game và chọn bản ngôn ngữ Tiếng Việt
 
 - Quẩy game
 
